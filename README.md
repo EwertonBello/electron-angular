@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
+## Screenschots
+
 ## Electron Install
 
 Reference: (https://fireship.io/lessons/desktop-apps-with-electron-and-angular/)
@@ -120,10 +122,6 @@ And replace:
 add ```"customWebpackConfig": {
               "path": "./webpack.config.js"
             }``` in `options`
-
-## Demo
-
-The app is running in (https://ewertonbello.github.io/electron-angular/).
 
 ## Resources Font
 
