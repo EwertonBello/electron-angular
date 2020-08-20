@@ -1,0 +1,25 @@
+.btn {
+    @apply px-4 py-2 font-bold text-white border-b-4 rounded;
+}
+
+.btn-red {
+    @apply bg-red-600 border-red-700;
+    
+    &:hover {
+        @apply bg-red-400 border-red-600;
+    };
+}
+
+.btn-blue {
+    @apply bg-blue-600 border-blue-700;
+    
+    &:hover {
+        @apply bg-blue-400 border-blue-600;
+    };
+}
+
+.input-add {
+    @apply w-full px-2 py-1 mr-3 font-semibold leading-tight text-white bg-transparent border-none appearance-none;
+    &:focus { @apply outline-none; }
+}
+

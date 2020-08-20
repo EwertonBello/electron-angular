@@ -1,0 +1,15 @@
+.toolbar {
+    @apply flex flex-wrap items-center justify-between p-2 bg-black shadow-lg;
+}
+
+.toolbar-title {
+    @apply text-xl font-semibold tracking-tight;
+}
+
+.toolbar-header {
+    @apply flex items-center flex-shrink-0 mr-6 text-white;
+}
+
+.toolbar-icon {
+    @apply w-16 h-auto mr-3;
+}
