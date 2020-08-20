@@ -131,7 +131,7 @@ Background Patterns (http://www.heropatterns.com/).
 
 Illustrations (https://undraw.co/illustrations).
 
-## Development server
+## Development window
 
 Run `npm run electron-build`.
 
