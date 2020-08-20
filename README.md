@@ -2,7 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
-## Screenschots
+## Screenshots
+![Screen Welcome](./screenshots/img1.png?raw=true "Welcome")
+![Screen Home](./screenshots/img2.png?raw=true "Home")
 
 ## Electron Install
 
